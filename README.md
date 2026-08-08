@@ -28,7 +28,7 @@ The goal is to identify differences between casual riders and annual members and
 
 ## 📈 Dashboard
 
-![Cyclistic Dashboard](dashboard.png)
+![Cyclistic Dashboard](Dashboard.png)
 
 ### Dashboard Features
 
